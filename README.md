@@ -13,6 +13,11 @@
   </a>
 </div>
 
+<h2 align="center">Discord Activity</h2>
+<p align="center">
+  <a href="https://discord.com/users/1175085689231126610"><img src="https://lanyard.cnrad.dev/api/1175085689231126610?bg=5e5e5e&theme=light&animated=true&animatedDecoration=false&hideStatus=true&hideClan=true&hideSpotify=true&hideProfile=false&showDisplayName=true&hideDecoration=false&hideTimestamp=false&hideBadges=false&hideActivity=false&hideDiscrim=false" /></a>
+</p>
+
 <img align="right" height="180" src="![image](https://github.com/user-attachments/assets/de69eb1f-14a7-45b0-a646-21e8aed03eda)
 "  />
 
