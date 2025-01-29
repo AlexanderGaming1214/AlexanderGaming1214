@@ -16,7 +16,7 @@
 
 <h2 align="center">Discord Activity</h2>
 <p align="center">
-  <a href="https://lanyard.cnrad.dev/api/1175085689231126610"><img src="https://discord.com/users/1175085689231126610" /></a>
+  <a href="https://discord.com/users/1175085689231126610"><img src="https://lanyard.cnrad.dev/api/1175085689231126610" /></a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
