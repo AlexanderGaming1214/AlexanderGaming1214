@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/alexgaming1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alexgaming1214" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alexanderkarcher02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alexanderkarcher02" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@alexminecraft-ro2so" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alexminecraft-ro2so" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@alexminecraft-ro2so" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alexminecraft-ro2so" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/h3xvtExevy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/h3xvtExevy" height="30" width="40" /></a>
 </p>
 
