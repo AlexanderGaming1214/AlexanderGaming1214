@@ -13,10 +13,8 @@
   </a>
 </div>
 
-<h2 align="center">Discord Activity</h2>
-<p align="center">
-  <a href="https://discord.com/users/1175085689231126610"><img src="https://lanyard.cnrad.dev/api/1175085689231126610" /></a>
-</p>
+<img align="right" height="180" src="![image](https://github.com/user-attachments/assets/de69eb1f-14a7-45b0-a646-21e8aed03eda)
+"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
