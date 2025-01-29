@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<img align="right" height="180" src="![image](https://github.com/user-attachments/assets/2f74674c-84ff-4dec-8528-547a06c6dd7e)
-"  />
+<img align="right" height="180" src="https://github.com/user-attachments/assets/2f74674c-84ff-4dec-8528-547a06c6dd7e"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex&label=Profile%20views&color=0e75b6&style=flat" alt="alex" /> </p>
 
