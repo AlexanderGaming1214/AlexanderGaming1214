@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **alexminecraftro2so@gmail.com**
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31onjhcsjvu33hip63kvufco7hxa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31onjhcsjvu33hip63kvufco7hxa" alt="Spotify recently played"  />
+  </a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/alexgaming1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alexgaming1214" height="30" width="40" /></a>
